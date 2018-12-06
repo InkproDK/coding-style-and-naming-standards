@@ -1,4 +1,16 @@
+
+
 # Coding style and naming standards
+- [Coding style and naming standards](#coding-style-and-naming-standards)
+    - [Coding style](#coding-style)
+        - [PHP](#php)
+        - [Visual Basic](#visual-basic)
+    - [Naming standards](#naming-standards)
+        - [Database structure](#database-structure)
+            - [Database name](#database-name)
+            - [Table names](#table-names)
+            - [Column names](#column-names)
+
 The purpose of this document, is to describe all coding style and namiong agreements we make along the way.  
 This is for our own benefit, as well as potential future employees.
 
