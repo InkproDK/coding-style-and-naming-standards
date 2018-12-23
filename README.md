@@ -28,6 +28,9 @@ Code should be documented using comments in the [phpDocumenter style](http://man
 ### Visual Basic
 On the way!
 
+## Logging
+Any logging should follow the [RFC 5424](https://tools.ietf.org/html/rfc5424) syslog protocol standard, and use the severities described in [6.2.1: PRI](https://tools.ietf.org/html/rfc5424#section-6.2.1), Table 2. Syslog Message Severities.
+
 ## Naming standards
 
 ### Database structure
