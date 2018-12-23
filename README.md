@@ -5,6 +5,7 @@
     - [Coding style](#coding-style)
         - [PHP](#php)
         - [Visual Basic](#visual-basic)
+    - [Logging](#logging)
     - [Naming standards](#naming-standards)
         - [Database structure](#database-structure)
             - [Database name](#database-name)
